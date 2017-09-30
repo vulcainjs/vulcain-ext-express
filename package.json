@@ -1,0 +1,27 @@
+{
+  "name": "vulcain-ext-express",
+  "version": "1.0.0",
+  "description": "Vulcain extension to use express as server adapter",
+  "main": "dist/index.js",
+  "scripts": {},
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vulcainjs/vulcain-ext-express.git"
+  },
+  "maintainers": [
+    "Alain Metge"
+  ],
+  "license": "Apache-2.0",
+  "typings": "dist/index.d.ts",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.0",
+    "vulcain-corejs": ">2.0.0-"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
