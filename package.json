@@ -18,11 +18,11 @@
   "typings": "dist/index.d.ts",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.0",
+    "express": "^4.16.2",
     "vulcain-corejs": ">2.0.0-"
   },
   "devDependencies": {
-    "@types/node": "^8.0.31",
+    "@types/node": "^8.0.34",
     "typescript": "^2.5.3"
   }
 }
